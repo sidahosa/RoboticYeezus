@@ -1,5 +1,6 @@
 ## Install the following
-geckodriver
+Geckodriver
+
 Selenium for Python
 
 ## Change the path for geckodriver
